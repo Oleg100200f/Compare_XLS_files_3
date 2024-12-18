@@ -9,8 +9,8 @@ public class Main {
         String filePath = "G:\\777\\IV112.xlsx"; // Файл_1
         String filePath2 = "G:\\777\\Irregular Cambridge.xlsx"; // Файл_2
 
-        // Назва для збереження копії Файлу_2 з позначками "V" біля однакових слів
-        String filePath3Copy = "G:\\777\\Irregular Cambridge Marked_2.xlsx";
+        // Назва Нового файлу з позначками "V" біля однакових слів
+        String filePath3Copy = "G:\\777\\New file with marks Beside same Verbs.xlsx";
 
         try {
             // Відкрити файли
